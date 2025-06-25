@@ -12,7 +12,10 @@ tricks and shortcuts for my regular coding
 - [Memory Layout in Embedded C: The Foundation of Reliable Firmware](https://www.linkedin.com/posts/activity-7309685504512348160-RcQi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Fireducks replacing Pandas](https://www.linkedin.com/posts/avi-chawla_pandas-is-getting-outdated-and-an-alternative-activity-7312407582340485120-fH_K?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Advantages of Julia in Scietific Programming](https://www.linkedin.com/posts/amirabbas-asadi_python-didnt-have-a-standard-library-for-activity-7317661077603827714-snDU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- The [20 Python libraries](https://www.linkedin.com/posts/programmingvalley_the-20-python-libraries-you-should-know-in-activity-7338490188009984000-fNsn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) you should know in 2025. 
+- The [20 Python libraries](https://www.linkedin.com/posts/programmingvalley_the-20-python-libraries-you-should-know-in-activity-7338490188009984000-fNsn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) you should know in 2025.
+
+## Notes
+- [Pointers in C++](https://www.linkedin.com/posts/maitisoutrik_cpp-pointers-memorymanagement-activity-7341831201415938049-STB9/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 
 # Embedded Programming
