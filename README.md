@@ -21,3 +21,4 @@ tricks and shortcuts for my regular coding
 # Embedded Programming
 
 - [Starting VLSI as a fresher? ](https://www.linkedin.com/posts/sambangi4567_vlsi-verilog-semiconductors-activity-7341393912470622208-A2NV/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 🚀 Mission Accomplished: 21-Day [Embedded Systems Programming Challenge](https://www.linkedin.com/posts/sree-vishnu-varthini-s_complete-notes-21-days-of-embedded-systems-activity-7344013570633830403-9blk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 💻✨
